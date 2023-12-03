@@ -1,2 +1,2 @@
 # delta-set
-this is delta 
+this is delta .
